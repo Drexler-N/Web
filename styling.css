@@ -15,6 +15,14 @@ link{
     color: rgb(32, 52, 143);
   }
 
+main {
+  background-color:aliceblue;
+
+}
+
+footer{
+  background-color:lightgray;
+}
 .the-icons {
   padding: 15px;
 }
