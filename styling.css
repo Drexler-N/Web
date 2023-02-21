@@ -1,24 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 
 h1 {
     color: rgb(0, 0, 0);
-    font-family: 'Roboto', sans-serif;
   }
 h2 {
     color: rgb(0, 0, 0);
-    font-family: 'Roboto', sans-serif;
   }
 
 p {
     color: rgb(5, 5, 5);
   }
+
 link{
     color: rgb(32, 52, 143);
   }
+
 .the-icons {
   padding: 15px;
-
 }
 
 img{
@@ -38,8 +36,9 @@ img{
 }
 
 #div1 {
-  background-color:sienna;
+  background-color:black;
 
 }
+
 
 
